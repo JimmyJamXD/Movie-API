@@ -1,4 +1,4 @@
-** Movie-API ** 
+**Movie-API** 
 
 ##About
 Creating a movie search list with the movie API
